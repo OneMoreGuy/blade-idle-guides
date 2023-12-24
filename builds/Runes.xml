@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<embed>
+    <title>Build: Runes</title>
+    <description>
+        All Runes, unless specified otherwise, are Doom Runes. Prior to Mythical runes, use your strongest combination of Magic Runes.
+    </description>
+    <fields>
+        <field heading="Mythical" inline="true">
+           Mythical 4-6
+           Magic 2-6
+        </field>
+        <field heading="God" inline="true">
+            God 2-6
+            Mythical 4-6
+        </field>
+        <field heading="Heaven" inline="true">
+            46 Cost: H3-6, G3-6, M4, M6
+            48 Cost: H1, H3-6, G3-6, M5-6
+            50 Cost: H1-6, G3-6, M5-6
+        </field>
+        <field>
+            For pushing/dungeon purposes, we recommend leveling God/Heaven 5/6 Vitality Runes.
+        </field>
+    </fields>
+</embed>

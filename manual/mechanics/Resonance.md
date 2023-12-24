@@ -1,0 +1,5 @@
+Resonance is a system for Figures.
+
+Primarily, Resonance is a multiplier that boosts the stats (ATK, HP, DEF) of your Figures. To unlock Resonance, you must have three Magic Figures - one Monster, one Master, one Costume - at level 15. Resonance tiers cannot be skipped. For example: if you have three Rare Figures at level 15, but your Magic Figures are not level 15, Resonance remains locked.
+
+Secondarily, Resonance improves using different loadouts and configurations of Figures across multiple presets. If you do not use multiple presets, this part will be useless to you. Every Figure has a hexagram that turns green when enabled, marking it the Resonance Figure. For each type of Figures - Monster, Master, Costume - you can only enable Resonance on one Figure per rarity - Magic, Rare, Epic, Legendary, Mythical, God, Heaven. All other equipped Figures of the same type and rarity whose level is lower than the Resonance will inherit the Resonance Figure's level. This means that you do not have to level all other Figures in other presets.

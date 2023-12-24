@@ -1,0 +1,1 @@
+This is an **unofficial** community Discord server for Blade Idle. There are no Game Admins or Game Moderators in this server. We cannot help with account-related matters. You can contact Mobirix's Customer Service via their service desk: <https://mobirix.zendesk.com/hc/en-us/requests/new>

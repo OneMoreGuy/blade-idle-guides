@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<embed>
+    <title>Build: Talismans</title>
+    <description>
+        Talismans are special, as they rely heavily on their Party Effect (combination) to be good. For Myth/God Rarities, don't invest in them if you can't activate the 4\* Party Effect. This guide recommends the balanced combinations, as they give around 80-90% of both damage and survival without compromising on either.
+    </description>
+    <fields>
+        <field heading="Mythical/God" inline="true">
+            Love: 4, 5, 8
+            Hope: 2, 6, 8
+            Fortune: 3, 7 ,8
+        </field>
+        <field heading="Heaven" inline="true">
+            Skip this Rarity entirely. Too expensive and is outclassed by IM Tier with low investment.
+        </field>
+        <field>
+            Immortal Talismans work much like Accessories. Due to how powerful they are, Row 1 Talis can be equipped almost immediately even at the loss of the Party Effect.
+        </field>
+        <field heading="Immortal (Row 1)" inline="true">
+            Love: 4. 1, 2 are optional (max 4\*)
+            Hope: 1, 2, 4 (max 4\*)
+            Fortune: 1, 3, 4 (max 4\*)
+        </field>
+        <field heading="Immortal (Row 2)" inline="true">
+            Love: 4, 5, 8 -> 5, 6, 8 (replace 4 with 6 when you hit a survival wall)
+            Hope: 5, 6, 8
+            Fortune: 5, 7, 8
+        </field>
+    </fields>
+</embed>

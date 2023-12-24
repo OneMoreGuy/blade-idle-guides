@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<embed>
+    <title>Build: Accessories</title>
+    <description>
+        The accessory sets below aim for a balance between DPS and survival stats. While investing in a defensive choice may seem bad in the short term, stages and dungeons will become harder, and dying is counterproductive.
+
+        We recommend avoiding God accessories because they are not much better than Mythical accessories, and they will not last more than a month before you unlock Heaven accessories, which heavily outscale them.
+    </description>
+    <fields>
+        <field heading="Mythical/Heaven" inline="true">
+            Rings: 4, 7, 8
+            Earrings: 4, 5, 8
+            Hairpins: 4, 6, 8
+        </field>
+        <field heading="Immortal (Row 1)" inline="true">
+            Rings: 1, 3, 4
+            Earrings: 1, 4, Heaven 8
+            Hairpins: 1, 2, 4
+        </field>
+        <field heading="Immortal (Row 2)" inline="true">
+            Rings: 5, 7, 8
+            Earrings: 5, 7, 8
+            Hairpins: 5, 6, 8
+        </field>
+        <field>
+            Note: Numbering is left to right, top to bottom.
+        </field>
+    </fields>
+</embed>
