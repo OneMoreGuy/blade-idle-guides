@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<embed>
+    <title>Build: Dungeons</title>
+    <description>
+        The following skill sets are general sets that perform well most of the time, but may not be the best for every stage.
+
+        Please refer to the [KR Dungeons Sheet](&lt;https://docs.google.com/spreadsheets/d/1aotkA1tbv5qhcawitFllXmhyevfbXMHUaNp2Pf4nO6M&gt;) for specific dungeon stage results.
+    </description>
+    <fields>
+        <field heading="Skin" inline="true">
+            [[Skills::RB,ST,PhB]]
+            [[Skills::PiB,ST,RB,GH,PhB]]
+        </field>
+        <field heading="Enchant" inline="true">
+            [[Skills::PiB,ST,ROS,PhB,CD]]
+            [[Skills::PiB,ST,CD,ROS,CB]]
+        </field>
+        <field heading="Pet" inline="true">
+            [[Skills::CMS,GH,ROS,ST,PiB]]
+            [[Skills::RB,GH,ROS,ST,PiB]]
+            [[Skills::GH,ST,ROS,RB,CMS]]
+        </field>
+        <field heading="Treasure" inline="true">
+            [[Skills::CMS,PiB,ROS,ST,GH]]
+            [[Skills::RB,PiB,ROS,ST,GH]]
+        </field>
+        <field heading="Emblem" inline="true">
+            [[Skills::GH,CMS,PiB,ST,ROS]]
+            [[Skills::PiB,ROS,ST,RB,GH]]
+            [[Skills::ROS,RB,ST,CB,SF]]
+        </field>
+        <field heading="Insignia" inline="true">
+            [[Skills::CMS,PiB,GH,ST,ROS]]
+            [[Skills::RB,PiB,GH,ST,ROS]]
+        </field>
+    </fields>
+</embed>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<embed>
+    <title>Online vs Offline</title>
+    <description>
+        Online requires you to keep the game open; Offline is with the game app closed.
+
+        **TL;DR:** Despite the vast amount of cons with online farming, the pro outweighs the cons. Online is far superior to offline.
+    </description>
+    <fields>
+        <field heading="Online Pros/Cons" inline="true">
+            - PRO: Faster clears yield more Gold, EXP, and drops.
+            - PRO: Box Loot and Hot Time buffs apply!
+            - CON: More expensive - higher electric cost and more stress on your devices. Android players can combat this by paying for an Android Cloud service. iOS players have no such luck.
+            - CON: More factors to worry about - chapter maps, PEN, ACU, and skillset can affect clear speed.
+            - CON: Slower pushing power in stages because you need to be able to one-shot enemies.
+            - CON: Requires constant Internet connection.
+        </field>
+        <field heading="Offline Pros/Cons" inline="true">
+            - PRO: Cheaper - less electric cost and less stress on your devices.
+            - PRO: Faster pushing power in stages.
+            - PRO: Can use full EXP loadout because damage is not needed for offline farming.
+            - PRO: ACU/PEN requirements and skillsets are irrelevant.
+            - CON: Box Loot and Hot Time buffs do not apply offline.
+            - CON: Fixed 26 seconds per clear is much slower, meaning less total Gold, EXP, and drops.
+            - CON: Cannot pick the stage for offline clears. Offline will always clear the second-to-last repeatable stage.
+        </field>
+    </fields>
+</embed>
