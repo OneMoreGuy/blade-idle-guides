@@ -4,4 +4,4 @@ The average CT represents how quickly you can complete the stage; however, after
 
 CPM is a more accurate metric for online farming efficiency. CPM factors in both the clear time and transition time. Two different players can have the same CT, but one player may have higher CPM due to having faster transition speed. For CPM, higher is better.
 
-Offline has no transition time. CT is at a fixed 26s, which yields ~2.3 CPM.
+Offline has no transition time. CT is at a fixed 22s, which yields ~2.7 CPM.
