@@ -22,5 +22,11 @@
             Earrings: 5, 7, 8
             Hairpins: 5, 6, 8
         </field>
+        <field heading="Upgrade Notes">
+            Up to Heaven: 2,4,6,8,10,12 dupes (42 total)
+            Immortal requires Heaven accs:
+            Row 1: 4, 8,12,16,20,24 (84 total)
+            Row 2: 6,10,14,18,22,26 (96 total)
+        </field>
     </fields>
 </embed>
